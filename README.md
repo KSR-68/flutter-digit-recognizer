@@ -1,6 +1,6 @@
 
 
-# Digit Recognition App
+# Flutter Digit Recognizer
 
 This Flutter project implements a digit recognition application using TensorFlow Lite. The app allows users to draw digits (0-9) on a canvas and then predicts the drawn digit with a confidence level using a pre-trained model based on the MNIST dataset. Additionally, the app provides voice feedback to the user, narrating the predicted digit.
 
@@ -19,7 +19,7 @@ This Flutter project implements a digit recognition application using TensorFlow
    ```
 2. Navigate to the project directory:
    ```bash
-   cd digit-recognition-app
+   cd flutter-digit-recognizer
    ```
 3. Install dependencies:
    ```bash
